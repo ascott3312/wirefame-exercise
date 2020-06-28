@@ -1,0 +1,19 @@
+
+nav {
+  margin-left: 70px;
+  display: inline;
+}
+div {
+  margin-left: 100px;
+}
+main {
+  margin-left: 100px;
+  padding: 30px
+}
+
+article img {
+  float: left;
+}
+p {
+  float: right;
+}
