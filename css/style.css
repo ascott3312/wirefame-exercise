@@ -12,8 +12,23 @@ main {
 }
 
 article img {
+  margin-left: 100px;
+  margin-right: 20px;
   float: left;
 }
-p {
-  float: right;
+p  {
+  width: 58%;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+p img {
+  margin-bottom: 40px;
+  margin-top: 20px;
+  padding: 10px;
+}
+footer {
+  margin-top: 70px;
+  margin-left: 70px;
+  padding-top: 10px;
 }
